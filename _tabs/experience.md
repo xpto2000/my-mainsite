@@ -102,13 +102,12 @@ Roles included system administration, SAP implementation, functional specificati
 
 ### Education & Certifications
 
-- **Master’s Degree | Computer Science** — Universidade da Madeira  
-  Focus: Enterprise Architecture & SOA  
-- **Postgraduate | Information Technology** — Universidade da Madeira  
+- **Master’s Degree | Computer Science** — Madeira University, Portugal  
+- **Postgraduate | Information Technology** — Madeira University, Portugal
+- **Bachelors | Information Technology** — Engineering Institute, Portugal
 - **TOGAF Certified Architect**
 - **AWS Certified Solutions Architect**
 - Additional certifications across leadership, cloud, agile and delivery disciplines.
-
 
 ---
 
