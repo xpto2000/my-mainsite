@@ -7,10 +7,10 @@ order: 2
 ---
 
 
-### Independent Consulting, Travel & Professional Development  
+### Travel, Consulting & Professional Development  
 **2023 — Present | Remote**
 
-After more than 20 years in technology, leadership, and architecture roles, I’m currently combining consulting work with long-term travel and development.
+After more than 20 years in technology, leadership, and architecture roles, I’m currently combining long-term travel and development.
 
 Key focus areas:
 
