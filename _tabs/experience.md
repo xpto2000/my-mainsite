@@ -69,7 +69,7 @@ Highlights:
 ---
 
 ### Startup Co-Founder / Technical Lead  
-**Mega Exitus — 2007 to 2013 | Portugal**
+**Mega eXitus — 2007 to 2013 | Portugal**
 
 Co-founded and led the technical direction of a small CRM-focused software company.
 
@@ -100,14 +100,12 @@ Roles included system administration, SAP implementation, functional specificati
 
 ---
 
-### Education & Certifications
-
-- **Master’s Degree | Computer Science** — Madeira University, Portugal  
-- **Postgraduate | Information Technology** — Madeira University, Portugal  
+### Highest Education & Key Certifications
+- **Master’s Degree | Computer Science** — Universidade da Madeira  
+  Focus: Enterprise Architecture & SOA  
 - **TOGAF Certified Architect**
 - **AWS Certified Solutions Architect**
-- Additional certifications across leadership, cloud, agile and delivery disciplines.
-
+- A couple more degrees and additional certifications across leadership, cloud, agile and delivery disciplines, full list can be provided.
 
 ---
 
