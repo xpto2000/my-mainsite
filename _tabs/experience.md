@@ -6,118 +6,117 @@ icon: fas fa-briefcase
 order: 2
 ---
 
+### Planned Career Break — Travel, Advisory & Technical Development
+**Sep 2023 — Mar 2026 | Remote / Global**
 
-### Travel, Consulting & Professional Development  
-**2023 — Present | Remote**
+A planned career break combining extended travel across Latin America and beyond with light technical engagement and personal projects.
 
-After more than 20 years in technology, leadership, and architecture roles, I’m currently combining long-term travel and development.
-
-Key focus areas:
-
-- Architecture support for early-stage startups (AWS, microservices, product framing)
-- Hands-on technical refresh including self-hosted tooling and development work
-- Volunteering and community contribution while travelling through 20+ countries
-- Independent work on cloud-native tooling, architecture practice and thought frameworks
-
+Key activities:
+- Ad-hoc advisory to early-stage ventures on cloud architecture and MVP platform design (AWS, microservices)
+- Built and deployed an [AI Finance Agent](/projects/) using CrewAI, Groq LLM, Pandas, and Streamlit — demonstrating applied AI engineering and data pipeline design
+- Designed and maintained this personal site using Jekyll and GitHub Pages, maintaining exposure to CI/CD and static cloud-native delivery
 
 ---
 
-### Solutions Architect  
-**Vector — 2021 to 2023 | Auckland**
+### Solutions Architect
+**Vector Limited · Mar 2021 – Aug 2023 | Auckland**
 
-Led architecture work on one of New Zealand’s most unique strategic technology programmes — a collaboration between Vector and Google (Alphabet X), focused on transforming how energy is generated, managed, and used.
+Led solution architecture for strategic initiatives within a critical infrastructure environment, including a high-profile partnership with **Alphabet X (Google)** on next-generation energy platforms.
 
 Responsibilities and achievements:
-
-- Designed scalable platform and integration patterns for next-generation energy initiatives
-- Developed architectural frameworks improving consistency, reuse and delivery efficiency
-- Provided strategic architecture governance for multi-million-dollar initiatives
-- Led architectural reviews ensuring alignment with business drivers, security and scalability
+- Defined target architectures, integration patterns, and non-functional requirements (security, scalability, resilience) across cloud and enterprise systems
+- Established the **architecture runway** and NFRs for New Zealand's electricity digital twin platform
+- Worked across multiple value streams, aligning business, engineering, and risk stakeholders to enable effective delivery
+- Contributed to modernisation of legacy platforms, supporting cloud adoption and improved system integration
 - Mentored engineering teams and supported executive technology decision-making
-- Evaluated technologies, platforms and vendors shaping future direction
-
 
 ---
 
-### Digital Transformation & Service Manager  
-**Vector — 2019 to 2021 | Auckland**
+### Digital Transformation & Service Manager
+**Vector Limited · Mar 2019 – Mar 2021 | Auckland**
 
-Responsible for shaping and delivering technology transformation roadmaps across delivery, DevOps, and operational capability.
+Led technology transformation initiatives across delivery and operations, defining roadmaps, KPIs, and operating models aligned to business strategy.
 
 Key outcomes:
-
-- Managed multi-vendor relationships while optimising cost and improving service reliability
-- Defined KPIs and OKRs improving delivery visibility and operational decision-making
-- Led cross-functional engineering teams with ~$10M OPEX and ~$5M CAPEX responsibility
-- Achieved ~30% optimisation without reducing capability or performance
-
+- Delivered ~**30% cost optimisation** while improving service quality and operational performance
+- Managed key vendor relationships and large technology portfolios (~$10M OPEX / $5M CAPEX)
+- Worked closely with executive stakeholders to align technology initiatives with business priorities
 
 ---
 
-### End User Compute & Collaboration Manager  
-**Vector — 2018 to 2019 | Auckland**
+### End User Compute & Collaboration Manager
+**Vector Limited · Jun 2018 – Mar 2019 | Auckland**
 
-Led the organisation’s digital employee experience platforms, enabling mobility, remote work and collaboration — improvements that proved critical during the COVID-19 response.
+Accountable for end-user and collaboration platforms supporting ~1,500 users across distributed environments.
 
-Highlights:
-
-- Delivered roadmap and budget planning for enterprise end-user platforms
+- Defined and delivered roadmap and budget for EUC services, improving automation, mobility, and service performance
 - Introduced modern collaboration tooling (SharePoint, Teams, Skype for Business, Workplace)
-- Automated and improved service delivery KPIs while reducing operational overhead
-
+- Improvements proved critical to operational continuity during the COVID-19 response
 
 ---
 
-### Startup Co-Founder / Technical Lead  
-**Mega eXitus — 2007 to 2013 | Portugal**
+### 2IC — Infrastructure Manager
+**Vector Limited · Oct 2015 – Jun 2018 | Auckland**
 
-Co-founded and led the technical direction of a small CRM-focused software company.
+Accountable for infrastructure domains including network, compute, storage, and data centre services.
+
+- Led platform modernisation and cloud transition initiatives across hybrid environments
+- Significantly reduced major incidents and delivered substantial cost savings
+- Managed large vendor ecosystems and infrastructure budgets
+
+---
+
+### IT Specialist
+**Vector Limited · Nov 2013 – Oct 2015 | Auckland**
+
+Designed and delivered Salesforce-based solutions integrating web platforms, field services, and SAP billing systems.
+
+- Enabled end-to-end digital workflows, improving customer experience and operational efficiency
+- Contributed to achieving **>95% customer satisfaction** and significant reduction in cost-to-serve
+
+---
+
+### Startup Co-Founder / Technical Lead
+**Mega eXitus · Jun 2007 – Oct 2013 | Portugal**
+
+Co-founded and led the technical direction of a CRM-focused software startup.
 
 - Gathered requirements and designed end-to-end client solutions
-- Led development, deployment, support and customisation
-- Participated in sales, customer engagement and startup operations
-
+- Led development, deployment, support, and customisation
+- Participated in sales, customer engagement, and startup operations
 
 ---
 
-### Head of Technology  
-**Madeira Ports — 2004 to 2013 | Portugal**
+### Head of Technology
+**Madeira Ports · Oct 2004 – Oct 2013 | Portugal**
 
-Led IT strategy, delivery and operations for a critical infrastructure organisation.
+Led IT strategy, delivery, and operations for a critical infrastructure organisation.
 
-- Directed teams across infrastructure, applications, networking and special projects
+- Directed teams across infrastructure, applications, networking, and special projects
 - Managed international vendor partnerships and budget alignment
+- Participated in the national **JUP — Portal for Portuguese Ports** project
 - Represented technology roadmaps to executive leadership and external stakeholders
 
+---
+
+### Early Career — Systems, Network & SAP
+**2001 – 2004**
+
+Roles spanning system administration, SAP implementation (FI module), functional specification design, and project delivery — forming the foundation for later leadership and architectural work.
 
 ---
 
-### Systems & Network Lead → SAP Consultant  
-**Early Career — 2001 to 2004**
+### Education & Certifications
 
-Roles included system administration, SAP implementation, functional specification design, and project delivery — forming the foundation of later leadership and architectural work.
-
-
----
-
-### Highest Education & Key Certifications
-- **Master’s Degree | Computer Science** — Universidade da Madeira  
-  Focus: Enterprise Architecture & SOA  
+- **Master's Degree | Computer Science** — Universidade da Madeira *(Enterprise Architecture & SOA)*
 - **TOGAF Certified Architect**
 - **AWS Certified Solutions Architect**
-- A couple more degrees and additional certifications across leadership, cloud, agile and delivery disciplines, full list can be provided.
+- Additional certifications across leadership, cloud, agile, and delivery disciplines *(full list available on request)*
 
 ---
 
-If you'd like a full résumé, a portfolio reference, or a deeper breakdown of work examples — just get in touch.
-
----
+*For a full résumé or portfolio reference, [get in touch](mailto:jesuino.azevedo@gmail.com).*
 
 ### Download CV
 
-For a concise version of my experience please have a look at my CV:
-
 **[Download CV (PDF)](/assets/files/Jesuino-Azevedo-Solutions-Architect-CV.pdf)**
-
----
-

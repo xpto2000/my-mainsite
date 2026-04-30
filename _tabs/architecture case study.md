@@ -3,7 +3,7 @@ layout: page
 title: Architecture Case Study
 subtitle: How This Website Is Built
 icon: fas fa-gears
-order: 3
+order: 4
 ---
 
 ### Building a Modern, Secure and Simple Website
